@@ -13,6 +13,10 @@
 		3B69710528E8A68800AD1AF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B69710328E8A68800AD1AF7 /* Main.storyboard */; };
 		3B69710728E8A68900AD1AF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B69710628E8A68900AD1AF7 /* Assets.xcassets */; };
 		3B69710A28E8A68900AD1AF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B69710828E8A68900AD1AF7 /* LaunchScreen.storyboard */; };
+		3B69711A28E994B900AD1AF7 /* SayfaA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B69711928E994B900AD1AF7 /* SayfaA.swift */; };
+		3B69711C28E994D400AD1AF7 /* SayfaB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B69711B28E994D400AD1AF7 /* SayfaB.swift */; };
+		3B69711E28E994DF00AD1AF7 /* SayfaX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B69711D28E994DF00AD1AF7 /* SayfaX.swift */; };
+		3B69712028E994EB00AD1AF7 /* SayfaY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B69711F28E994EB00AD1AF7 /* SayfaY.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		3B69710628E8A68900AD1AF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B69710928E8A68900AD1AF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B69710B28E8A68900AD1AF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B69711928E994B900AD1AF7 /* SayfaA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaA.swift; sourceTree = "<group>"; };
+		3B69711B28E994D400AD1AF7 /* SayfaB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaB.swift; sourceTree = "<group>"; };
+		3B69711D28E994DF00AD1AF7 /* SayfaX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaX.swift; sourceTree = "<group>"; };
+		3B69711F28E994EB00AD1AF7 /* SayfaY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaY.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				3B6970FD28E8A68800AD1AF7 /* AppDelegate.swift */,
 				3B6970FF28E8A68800AD1AF7 /* SceneDelegate.swift */,
 				3B69710128E8A68800AD1AF7 /* ViewController.swift */,
+				3B69711928E994B900AD1AF7 /* SayfaA.swift */,
+				3B69711B28E994D400AD1AF7 /* SayfaB.swift */,
+				3B69711D28E994DF00AD1AF7 /* SayfaX.swift */,
+				3B69711F28E994EB00AD1AF7 /* SayfaY.swift */,
 				3B69710328E8A68800AD1AF7 /* Main.storyboard */,
 				3B69710628E8A68900AD1AF7 /* Assets.xcassets */,
 				3B69710828E8A68900AD1AF7 /* LaunchScreen.storyboard */,
@@ -140,7 +152,11 @@
 			files = (
 				3B69710228E8A68800AD1AF7 /* ViewController.swift in Sources */,
 				3B6970FE28E8A68800AD1AF7 /* AppDelegate.swift in Sources */,
+				3B69711C28E994D400AD1AF7 /* SayfaB.swift in Sources */,
+				3B69711E28E994DF00AD1AF7 /* SayfaX.swift in Sources */,
 				3B69710028E8A68800AD1AF7 /* SceneDelegate.swift in Sources */,
+				3B69712028E994EB00AD1AF7 /* SayfaY.swift in Sources */,
+				3B69711A28E994B900AD1AF7 /* SayfaA.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
